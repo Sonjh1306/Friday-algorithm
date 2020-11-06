@@ -19,6 +19,3 @@ func codeScanner(){
         print("mixed")
     }
 }
-
-
-
