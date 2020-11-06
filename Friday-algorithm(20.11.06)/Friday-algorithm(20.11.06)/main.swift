@@ -14,6 +14,9 @@ import Foundation
 //print()
 //printStar()
 //print()
-codeScanner()
+//codeScanner()
 //print()
-
+//print(calculatorOX())
+//print()
+//print(asciiConverter())
+//print()
