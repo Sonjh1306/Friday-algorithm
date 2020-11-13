@@ -64,8 +64,8 @@
 			isa = PBXGroup;
 			children = (
 				BDCBF965255D5B2C002A0D95 /* main.swift */,
-				BD4DF0E8255E1EBF005AA5E4 /* lessons12928.swift */,
 				BDCBF96D255D5BA7002A0D95 /* lessons12910.swift */,
+				BD4DF0E8255E1EBF005AA5E4 /* lessons12928.swift */,
 				BDCBF973255D6D88002A0D95 /* lessons12901.swift */,
 			);
 			path = "Friday-algorithm(20.11.13)";

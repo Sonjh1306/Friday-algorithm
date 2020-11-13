@@ -7,6 +7,7 @@
 
 import Foundation
 
+// 채점 결과 : 94.1
 func solution_12928(_ n:Int) -> Int {
     var sum : Int = 0
     

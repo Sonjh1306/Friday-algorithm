@@ -7,7 +7,11 @@
 
 import Foundation
 
+////  문제 _12910
+//print(solution_12910([2,36,1,3], 1))
 
-//print(solution12910(_arr: [1,2,3,4,5], _divisor: 5))
-
+////  문제 _12928
 //print(solution_12928(5))
+
+////  문제_12901
+//print(solution_12901(2, 30))
