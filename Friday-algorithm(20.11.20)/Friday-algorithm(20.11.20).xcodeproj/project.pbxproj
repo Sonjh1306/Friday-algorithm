@@ -10,6 +10,7 @@
 		BD7A90B92567572500184A78 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7A90B82567572500184A78 /* main.swift */; };
 		BD7A90C12567574A00184A78 /* SolveMeFirst.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7A90C02567574A00184A78 /* SolveMeFirst.swift */; };
 		BD7A90C42567585300184A78 /* GradingStudents.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7A90C32567585300184A78 /* GradingStudents.swift */; };
+		BD7A90C7256785F400184A78 /* CompareTheTriplets.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7A90C6256785F400184A78 /* CompareTheTriplets.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		BD7A90B82567572500184A78 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		BD7A90C02567574A00184A78 /* SolveMeFirst.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SolveMeFirst.swift; sourceTree = "<group>"; };
 		BD7A90C32567585300184A78 /* GradingStudents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradingStudents.swift; sourceTree = "<group>"; };
+		BD7A90C6256785F400184A78 /* CompareTheTriplets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompareTheTriplets.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 			isa = PBXGroup;
 			children = (
 				BD7A90B82567572500184A78 /* main.swift */,
+				BD7A90C6256785F400184A78 /* CompareTheTriplets.swift */,
 				BD7A90C02567574A00184A78 /* SolveMeFirst.swift */,
 				BD7A90C32567585300184A78 /* GradingStudents.swift */,
 			);
@@ -125,6 +128,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD7A90C7256785F400184A78 /* CompareTheTriplets.swift in Sources */,
 				BD7A90C12567574A00184A78 /* SolveMeFirst.swift in Sources */,
 				BD7A90C42567585300184A78 /* GradingStudents.swift in Sources */,
 				BD7A90B92567572500184A78 /* main.swift in Sources */,
