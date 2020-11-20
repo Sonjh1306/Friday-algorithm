@@ -15,3 +15,4 @@ import Foundation
 
 //print(aVeryBigSum(ar: [1,2,3,4]))
 
+print(kangaroo(x1: 0, v1: 2 , x2: 5, v2: 3))
