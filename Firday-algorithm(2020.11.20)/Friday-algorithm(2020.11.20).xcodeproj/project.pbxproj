@@ -13,6 +13,7 @@
 		BD50D3DE2567B09A0012D3A5 /* Compare_The_Triplets.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD50D3DD2567B09A0012D3A5 /* Compare_The_Triplets.swift */; };
 		BD50D3E12567B0AC0012D3A5 /* A_Very_Big_Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD50D3E02567B0AC0012D3A5 /* A_Very_Big_Sum.swift */; };
 		BD50D3E42567B0C00012D3A5 /* Time_Conversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD50D3E32567B0C00012D3A5 /* Time_Conversion.swift */; };
+		BD50D3E82567B4BB0012D3A5 /* Number_Line_Jumps  .swift in Sources */ = {isa = PBXBuildFile; fileRef = BD50D3E72567B4BB0012D3A5 /* Number_Line_Jumps  .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,13 +29,14 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		BD50D3CC2567B04B0012D3A5 /* Firday-algorithm(2020.11.20) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Firday-algorithm(2020.11.20)"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BD50D3CC2567B04B0012D3A5 /* Friday-algorithm(2020.11.20) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Friday-algorithm(2020.11.20)"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD50D3CF2567B04B0012D3A5 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		BD50D3D72567B0640012D3A5 /* Solve_Me_First.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solve_Me_First.swift; sourceTree = "<group>"; };
 		BD50D3DA2567B0780012D3A5 /* Grading_Students.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Grading_Students.swift; sourceTree = "<group>"; };
 		BD50D3DD2567B09A0012D3A5 /* Compare_The_Triplets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Compare_The_Triplets.swift; sourceTree = "<group>"; };
 		BD50D3E02567B0AC0012D3A5 /* A_Very_Big_Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = A_Very_Big_Sum.swift; sourceTree = "<group>"; };
 		BD50D3E32567B0C00012D3A5 /* Time_Conversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Time_Conversion.swift; sourceTree = "<group>"; };
+		BD50D3E72567B4BB0012D3A5 /* Number_Line_Jumps  .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Number_Line_Jumps  .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,7 +53,7 @@
 		BD50D3C32567B04B0012D3A5 = {
 			isa = PBXGroup;
 			children = (
-				BD50D3CE2567B04B0012D3A5 /* Firday-algorithm(2020.11.20) */,
+				BD50D3CE2567B04B0012D3A5 /* Friday-algorithm(2020.11.20) */,
 				BD50D3CD2567B04B0012D3A5 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -59,12 +61,12 @@
 		BD50D3CD2567B04B0012D3A5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BD50D3CC2567B04B0012D3A5 /* Firday-algorithm(2020.11.20) */,
+				BD50D3CC2567B04B0012D3A5 /* Friday-algorithm(2020.11.20) */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		BD50D3CE2567B04B0012D3A5 /* Firday-algorithm(2020.11.20) */ = {
+		BD50D3CE2567B04B0012D3A5 /* Friday-algorithm(2020.11.20) */ = {
 			isa = PBXGroup;
 			children = (
 				BD50D3CF2567B04B0012D3A5 /* main.swift */,
@@ -73,16 +75,17 @@
 				BD50D3DD2567B09A0012D3A5 /* Compare_The_Triplets.swift */,
 				BD50D3E02567B0AC0012D3A5 /* A_Very_Big_Sum.swift */,
 				BD50D3E32567B0C00012D3A5 /* Time_Conversion.swift */,
+				BD50D3E72567B4BB0012D3A5 /* Number_Line_Jumps  .swift */,
 			);
-			path = "Firday-algorithm(2020.11.20)";
+			path = "Friday-algorithm(2020.11.20)";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BD50D3CB2567B04B0012D3A5 /* Firday-algorithm(2020.11.20) */ = {
+		BD50D3CB2567B04B0012D3A5 /* Friday-algorithm(2020.11.20) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BD50D3D32567B04B0012D3A5 /* Build configuration list for PBXNativeTarget "Firday-algorithm(2020.11.20)" */;
+			buildConfigurationList = BD50D3D32567B04B0012D3A5 /* Build configuration list for PBXNativeTarget "Friday-algorithm(2020.11.20)" */;
 			buildPhases = (
 				BD50D3C82567B04B0012D3A5 /* Sources */,
 				BD50D3C92567B04B0012D3A5 /* Frameworks */,
@@ -92,9 +95,9 @@
 			);
 			dependencies = (
 			);
-			name = "Firday-algorithm(2020.11.20)";
+			name = "Friday-algorithm(2020.11.20)";
 			productName = "Firday-algorithm(2020.11.20)";
-			productReference = BD50D3CC2567B04B0012D3A5 /* Firday-algorithm(2020.11.20) */;
+			productReference = BD50D3CC2567B04B0012D3A5 /* Friday-algorithm(2020.11.20) */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -111,7 +114,7 @@
 					};
 				};
 			};
-			buildConfigurationList = BD50D3C72567B04B0012D3A5 /* Build configuration list for PBXProject "Firday-algorithm(2020.11.20)" */;
+			buildConfigurationList = BD50D3C72567B04B0012D3A5 /* Build configuration list for PBXProject "Friday-algorithm(2020.11.20)" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -124,7 +127,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BD50D3CB2567B04B0012D3A5 /* Firday-algorithm(2020.11.20) */,
+				BD50D3CB2567B04B0012D3A5 /* Friday-algorithm(2020.11.20) */,
 			);
 		};
 /* End PBXProject section */
@@ -137,6 +140,7 @@
 				BD50D3E12567B0AC0012D3A5 /* A_Very_Big_Sum.swift in Sources */,
 				BD50D3D82567B0640012D3A5 /* Solve_Me_First.swift in Sources */,
 				BD50D3DB2567B0780012D3A5 /* Grading_Students.swift in Sources */,
+				BD50D3E82567B4BB0012D3A5 /* Number_Line_Jumps  .swift in Sources */,
 				BD50D3DE2567B09A0012D3A5 /* Compare_The_Triplets.swift in Sources */,
 				BD50D3E42567B0C00012D3A5 /* Time_Conversion.swift in Sources */,
 				BD50D3D02567B04B0012D3A5 /* main.swift in Sources */,
@@ -286,7 +290,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BD50D3C72567B04B0012D3A5 /* Build configuration list for PBXProject "Firday-algorithm(2020.11.20)" */ = {
+		BD50D3C72567B04B0012D3A5 /* Build configuration list for PBXProject "Friday-algorithm(2020.11.20)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BD50D3D12567B04B0012D3A5 /* Debug */,
@@ -295,7 +299,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BD50D3D32567B04B0012D3A5 /* Build configuration list for PBXNativeTarget "Firday-algorithm(2020.11.20)" */ = {
+		BD50D3D32567B04B0012D3A5 /* Build configuration list for PBXNativeTarget "Friday-algorithm(2020.11.20)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BD50D3D42567B04B0012D3A5 /* Debug */,
