@@ -12,3 +12,5 @@ import Foundation
 print(gradingStudents(grades: [12,24,43,60]))
 
 print(compareTriplets(a: [1,2,3], b: [2,3,3]))
+
+print(aVeryBigSum(ar: [1,2,3,4]))

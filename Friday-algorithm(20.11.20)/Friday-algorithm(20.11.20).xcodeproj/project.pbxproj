@@ -7,10 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BD50D3AF256789F30012D3A5 /* A_Very_Big_Sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD50D3AE256789F30012D3A5 /* A_Very_Big_Sum.swift */; };
 		BD7A90B92567572500184A78 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7A90B82567572500184A78 /* main.swift */; };
-		BD7A90C12567574A00184A78 /* SolveMeFirst.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7A90C02567574A00184A78 /* SolveMeFirst.swift */; };
-		BD7A90C42567585300184A78 /* GradingStudents.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7A90C32567585300184A78 /* GradingStudents.swift */; };
-		BD7A90C7256785F400184A78 /* CompareTheTriplets.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7A90C6256785F400184A78 /* CompareTheTriplets.swift */; };
+		BD7A90C12567574A00184A78 /* Solve_Me_First.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7A90C02567574A00184A78 /* Solve_Me_First.swift */; };
+		BD7A90C42567585300184A78 /* Grading_Students.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7A90C32567585300184A78 /* Grading_Students.swift */; };
+		BD7A90C7256785F400184A78 /* Compare_The_Triplets.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7A90C6256785F400184A78 /* Compare_The_Triplets.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,11 +27,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		BD50D3AE256789F30012D3A5 /* A_Very_Big_Sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = A_Very_Big_Sum.swift; sourceTree = "<group>"; };
 		BD7A90B52567572500184A78 /* Friday-algorithm(20.11.20) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Friday-algorithm(20.11.20)"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD7A90B82567572500184A78 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		BD7A90C02567574A00184A78 /* SolveMeFirst.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SolveMeFirst.swift; sourceTree = "<group>"; };
-		BD7A90C32567585300184A78 /* GradingStudents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradingStudents.swift; sourceTree = "<group>"; };
-		BD7A90C6256785F400184A78 /* CompareTheTriplets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompareTheTriplets.swift; sourceTree = "<group>"; };
+		BD7A90C02567574A00184A78 /* Solve_Me_First.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Solve_Me_First.swift; sourceTree = "<group>"; };
+		BD7A90C32567585300184A78 /* Grading_Students.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Grading_Students.swift; sourceTree = "<group>"; };
+		BD7A90C6256785F400184A78 /* Compare_The_Triplets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Compare_The_Triplets.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,9 +66,10 @@
 			isa = PBXGroup;
 			children = (
 				BD7A90B82567572500184A78 /* main.swift */,
-				BD7A90C6256785F400184A78 /* CompareTheTriplets.swift */,
-				BD7A90C02567574A00184A78 /* SolveMeFirst.swift */,
-				BD7A90C32567585300184A78 /* GradingStudents.swift */,
+				BD7A90C02567574A00184A78 /* Solve_Me_First.swift */,
+				BD7A90C32567585300184A78 /* Grading_Students.swift */,
+				BD7A90C6256785F400184A78 /* Compare_The_Triplets.swift */,
+				BD50D3AE256789F30012D3A5 /* A_Very_Big_Sum.swift */,
 			);
 			path = "Friday-algorithm(20.11.20)";
 			sourceTree = "<group>";
@@ -128,9 +131,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BD7A90C7256785F400184A78 /* CompareTheTriplets.swift in Sources */,
-				BD7A90C12567574A00184A78 /* SolveMeFirst.swift in Sources */,
-				BD7A90C42567585300184A78 /* GradingStudents.swift in Sources */,
+				BD7A90C7256785F400184A78 /* Compare_The_Triplets.swift in Sources */,
+				BD7A90C12567574A00184A78 /* Solve_Me_First.swift in Sources */,
+				BD7A90C42567585300184A78 /* Grading_Students.swift in Sources */,
+				BD50D3AF256789F30012D3A5 /* A_Very_Big_Sum.swift in Sources */,
 				BD7A90B92567572500184A78 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
