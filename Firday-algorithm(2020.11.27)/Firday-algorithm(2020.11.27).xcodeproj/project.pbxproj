@@ -10,6 +10,7 @@
 		BD52A2F925708D3600190D74 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD52A2F825708D3600190D74 /* main.swift */; };
 		BD52A30125708D8300190D74 /* two-sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD52A30025708D8300190D74 /* two-sum.swift */; };
 		BD52A3042570C5AD00190D74 /* ReverseInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD52A3032570C5AD00190D74 /* ReverseInteger.swift */; };
+		BD52A3072570DD2A00190D74 /* PalindromeNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD52A3062570DD2A00190D74 /* PalindromeNumber.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		BD52A2F825708D3600190D74 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		BD52A30025708D8300190D74 /* two-sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "two-sum.swift"; sourceTree = "<group>"; };
 		BD52A3032570C5AD00190D74 /* ReverseInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseInteger.swift; sourceTree = "<group>"; };
+		BD52A3062570DD2A00190D74 /* PalindromeNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromeNumber.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				BD52A2F825708D3600190D74 /* main.swift */,
 				BD52A30025708D8300190D74 /* two-sum.swift */,
 				BD52A3032570C5AD00190D74 /* ReverseInteger.swift */,
+				BD52A3062570DD2A00190D74 /* PalindromeNumber.swift */,
 			);
 			path = "Firday-algorithm(2020.11.27)";
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD52A30125708D8300190D74 /* two-sum.swift in Sources */,
+				BD52A3072570DD2A00190D74 /* PalindromeNumber.swift in Sources */,
 				BD52A2F925708D3600190D74 /* main.swift in Sources */,
 				BD52A3042570C5AD00190D74 /* ReverseInteger.swift in Sources */,
 			);

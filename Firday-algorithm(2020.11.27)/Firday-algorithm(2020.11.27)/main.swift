@@ -11,7 +11,8 @@ import Foundation
 //var p1 = Solution_twoSum()
 //print(p1.twoSum([3,2,4], 6))
 
-// 문제 2 . ReverseInteger
-var p2 = Solution_ReverseInteger()
-print(p2.reverse(
-        1534236469))
+//// 문제 2 . ReverseInteger
+//var p2 = Solution_ReverseInteger()
+//print(p2.reverse(1534236469))
+
+//// 문제 3 . PalindromeNumber
