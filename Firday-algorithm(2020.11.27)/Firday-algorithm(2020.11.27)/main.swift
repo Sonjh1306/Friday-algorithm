@@ -7,10 +7,11 @@
 
 import Foundation
 
-// 문제 1 . two-sum
-var p1 = Solution_twoSum()
-print(p1.twoSum([3,2,4], 6))
+//// 문제 1 . two-sum
+//var p1 = Solution_twoSum()
+//print(p1.twoSum([3,2,4], 6))
 
-//// 문제 2 . ReverseInteger
-//var p2 = Solution_ReverseInteger()
-//print(p2.reverse(1234))
+// 문제 2 . ReverseInteger
+var p2 = Solution_ReverseInteger()
+print(p2.reverse(
+        1534236469))
