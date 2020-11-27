@@ -7,7 +7,7 @@
 
 import Foundation
 
-class Solution {
+class Solution_PalindromeNumber {
     func isPalindrome(_ x: Int) -> Bool {
         var inputString : String = ""
         var reverseArr : [String] = []
