@@ -7,15 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BD52A2F925708D3600190D74 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD52A2F825708D3600190D74 /* main.swift */; };
-		BD52A30125708D8300190D74 /* two-sum.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD52A30025708D8300190D74 /* two-sum.swift */; };
-		BD52A3042570C5AD00190D74 /* ReverseInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD52A3032570C5AD00190D74 /* ReverseInteger.swift */; };
-		BD52A3072570DD2A00190D74 /* PalindromeNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD52A3062570DD2A00190D74 /* PalindromeNumber.swift */; };
-		BD52A30A2570E8E900190D74 /* RomanToInteger.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD52A3092570E8E900190D74 /* RomanToInteger.swift */; };
+		BDCC5B0025CA70BC00F5D5EA /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDCC5AFF25CA70BC00F5D5EA /* main.swift */; };
+		BDCC5B0825CA732800F5D5EA /* Baekjoon_1152.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDCC5B0725CA732800F5D5EA /* Baekjoon_1152.swift */; };
+		BDCC5B0C25CA78C400F5D5EA /* Baekjoon_1259.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDCC5B0B25CA78C400F5D5EA /* Baekjoon_1259.swift */; };
+		BDCC5B0F25CA85E400F5D5EA /* Baekjoon_1264.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDCC5B0E25CA85E400F5D5EA /* Baekjoon_1264.swift */; };
+		BDCC5B1325CA943800F5D5EA /* Baekjoon_1547.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDCC5B1225CA943800F5D5EA /* Baekjoon_1547.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		BD52A2F325708D3600190D74 /* CopyFiles */ = {
+		BDCC5AFA25CA70BC00F5D5EA /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -27,16 +27,16 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		BD52A2F525708D3600190D74 /* Firday-algorithm(2020.11.27) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Firday-algorithm(2020.11.27)"; sourceTree = BUILT_PRODUCTS_DIR; };
-		BD52A2F825708D3600190D74 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		BD52A30025708D8300190D74 /* two-sum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "two-sum.swift"; sourceTree = "<group>"; };
-		BD52A3032570C5AD00190D74 /* ReverseInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReverseInteger.swift; sourceTree = "<group>"; };
-		BD52A3062570DD2A00190D74 /* PalindromeNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PalindromeNumber.swift; sourceTree = "<group>"; };
-		BD52A3092570E8E900190D74 /* RomanToInteger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RomanToInteger.swift; sourceTree = "<group>"; };
+		BDCC5AFC25CA70BC00F5D5EA /* Algorithm(2021.02.03) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Algorithm(2021.02.03)"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BDCC5AFF25CA70BC00F5D5EA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		BDCC5B0725CA732800F5D5EA /* Baekjoon_1152.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon_1152.swift; sourceTree = "<group>"; };
+		BDCC5B0B25CA78C400F5D5EA /* Baekjoon_1259.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon_1259.swift; sourceTree = "<group>"; };
+		BDCC5B0E25CA85E400F5D5EA /* Baekjoon_1264.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon_1264.swift; sourceTree = "<group>"; };
+		BDCC5B1225CA943800F5D5EA /* Baekjoon_1547.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baekjoon_1547.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		BD52A2F225708D3600190D74 /* Frameworks */ = {
+		BDCC5AF925CA70BC00F5D5EA /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -46,69 +46,69 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		BD52A2EC25708D3600190D74 = {
+		BDCC5AF325CA70BB00F5D5EA = {
 			isa = PBXGroup;
 			children = (
-				BD52A2F725708D3600190D74 /* Firday-algorithm(2020.11.27) */,
-				BD52A2F625708D3600190D74 /* Products */,
+				BDCC5AFE25CA70BC00F5D5EA /* Algorithm(2021.02.03) */,
+				BDCC5AFD25CA70BC00F5D5EA /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		BD52A2F625708D3600190D74 /* Products */ = {
+		BDCC5AFD25CA70BC00F5D5EA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BD52A2F525708D3600190D74 /* Firday-algorithm(2020.11.27) */,
+				BDCC5AFC25CA70BC00F5D5EA /* Algorithm(2021.02.03) */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		BD52A2F725708D3600190D74 /* Firday-algorithm(2020.11.27) */ = {
+		BDCC5AFE25CA70BC00F5D5EA /* Algorithm(2021.02.03) */ = {
 			isa = PBXGroup;
 			children = (
-				BD52A2F825708D3600190D74 /* main.swift */,
-				BD52A30025708D8300190D74 /* two-sum.swift */,
-				BD52A3032570C5AD00190D74 /* ReverseInteger.swift */,
-				BD52A3062570DD2A00190D74 /* PalindromeNumber.swift */,
-				BD52A3092570E8E900190D74 /* RomanToInteger.swift */,
+				BDCC5AFF25CA70BC00F5D5EA /* main.swift */,
+				BDCC5B0725CA732800F5D5EA /* Baekjoon_1152.swift */,
+				BDCC5B0B25CA78C400F5D5EA /* Baekjoon_1259.swift */,
+				BDCC5B0E25CA85E400F5D5EA /* Baekjoon_1264.swift */,
+				BDCC5B1225CA943800F5D5EA /* Baekjoon_1547.swift */,
 			);
-			path = "Firday-algorithm(2020.11.27)";
+			path = "Algorithm(2021.02.03)";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BD52A2F425708D3600190D74 /* Firday-algorithm(2020.11.27) */ = {
+		BDCC5AFB25CA70BC00F5D5EA /* Algorithm(2021.02.03) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BD52A2FC25708D3600190D74 /* Build configuration list for PBXNativeTarget "Firday-algorithm(2020.11.27)" */;
+			buildConfigurationList = BDCC5B0325CA70BC00F5D5EA /* Build configuration list for PBXNativeTarget "Algorithm(2021.02.03)" */;
 			buildPhases = (
-				BD52A2F125708D3600190D74 /* Sources */,
-				BD52A2F225708D3600190D74 /* Frameworks */,
-				BD52A2F325708D3600190D74 /* CopyFiles */,
+				BDCC5AF825CA70BC00F5D5EA /* Sources */,
+				BDCC5AF925CA70BC00F5D5EA /* Frameworks */,
+				BDCC5AFA25CA70BC00F5D5EA /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Firday-algorithm(2020.11.27)";
-			productName = "Firday-algorithm(2020.11.27)";
-			productReference = BD52A2F525708D3600190D74 /* Firday-algorithm(2020.11.27) */;
+			name = "Algorithm(2021.02.03)";
+			productName = "Algorithm(2021.02.03)";
+			productReference = BDCC5AFC25CA70BC00F5D5EA /* Algorithm(2021.02.03) */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		BD52A2ED25708D3600190D74 /* Project object */ = {
+		BDCC5AF425CA70BB00F5D5EA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 1220;
-				LastUpgradeCheck = 1220;
+				LastSwiftUpdateCheck = 1240;
+				LastUpgradeCheck = 1240;
 				TargetAttributes = {
-					BD52A2F425708D3600190D74 = {
-						CreatedOnToolsVersion = 12.2;
+					BDCC5AFB25CA70BC00F5D5EA = {
+						CreatedOnToolsVersion = 12.4;
 					};
 				};
 			};
-			buildConfigurationList = BD52A2F025708D3600190D74 /* Build configuration list for PBXProject "Firday-algorithm(2020.11.27)" */;
+			buildConfigurationList = BDCC5AF725CA70BB00F5D5EA /* Build configuration list for PBXProject "Algorithm(2021.02.03)" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -116,33 +116,33 @@
 				en,
 				Base,
 			);
-			mainGroup = BD52A2EC25708D3600190D74;
-			productRefGroup = BD52A2F625708D3600190D74 /* Products */;
+			mainGroup = BDCC5AF325CA70BB00F5D5EA;
+			productRefGroup = BDCC5AFD25CA70BC00F5D5EA /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BD52A2F425708D3600190D74 /* Firday-algorithm(2020.11.27) */,
+				BDCC5AFB25CA70BC00F5D5EA /* Algorithm(2021.02.03) */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		BD52A2F125708D3600190D74 /* Sources */ = {
+		BDCC5AF825CA70BC00F5D5EA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BD52A30125708D8300190D74 /* two-sum.swift in Sources */,
-				BD52A3072570DD2A00190D74 /* PalindromeNumber.swift in Sources */,
-				BD52A2F925708D3600190D74 /* main.swift in Sources */,
-				BD52A3042570C5AD00190D74 /* ReverseInteger.swift in Sources */,
-				BD52A30A2570E8E900190D74 /* RomanToInteger.swift in Sources */,
+				BDCC5B0F25CA85E400F5D5EA /* Baekjoon_1264.swift in Sources */,
+				BDCC5B0C25CA78C400F5D5EA /* Baekjoon_1259.swift in Sources */,
+				BDCC5B0825CA732800F5D5EA /* Baekjoon_1152.swift in Sources */,
+				BDCC5B1325CA943800F5D5EA /* Baekjoon_1547.swift in Sources */,
+				BDCC5B0025CA70BC00F5D5EA /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		BD52A2FA25708D3600190D74 /* Debug */ = {
+		BDCC5B0125CA70BC00F5D5EA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -193,7 +193,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -203,7 +203,7 @@
 			};
 			name = Debug;
 		};
-		BD52A2FB25708D3600190D74 /* Release */ = {
+		BDCC5B0225CA70BC00F5D5EA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -248,7 +248,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = macosx;
@@ -257,7 +257,7 @@
 			};
 			name = Release;
 		};
-		BD52A2FD25708D3600190D74 /* Debug */ = {
+		BDCC5B0425CA70BC00F5D5EA /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -268,7 +268,7 @@
 			};
 			name = Debug;
 		};
-		BD52A2FE25708D3600190D74 /* Release */ = {
+		BDCC5B0525CA70BC00F5D5EA /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -282,25 +282,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BD52A2F025708D3600190D74 /* Build configuration list for PBXProject "Firday-algorithm(2020.11.27)" */ = {
+		BDCC5AF725CA70BB00F5D5EA /* Build configuration list for PBXProject "Algorithm(2021.02.03)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BD52A2FA25708D3600190D74 /* Debug */,
-				BD52A2FB25708D3600190D74 /* Release */,
+				BDCC5B0125CA70BC00F5D5EA /* Debug */,
+				BDCC5B0225CA70BC00F5D5EA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BD52A2FC25708D3600190D74 /* Build configuration list for PBXNativeTarget "Firday-algorithm(2020.11.27)" */ = {
+		BDCC5B0325CA70BC00F5D5EA /* Build configuration list for PBXNativeTarget "Algorithm(2021.02.03)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BD52A2FD25708D3600190D74 /* Debug */,
-				BD52A2FE25708D3600190D74 /* Release */,
+				BDCC5B0425CA70BC00F5D5EA /* Debug */,
+				BDCC5B0525CA70BC00F5D5EA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = BD52A2ED25708D3600190D74 /* Project object */;
+	rootObject = BDCC5AF425CA70BB00F5D5EA /* Project object */;
 }

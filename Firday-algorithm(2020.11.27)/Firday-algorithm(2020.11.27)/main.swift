@@ -16,6 +16,10 @@ import Foundation
 //print(p2.reverse(1534236469))
 
 //// 문제 3 . PalindromeNumber
-var p3 = Solution_PalindromeNumber()
-print(p3.isPalindrome(1234))
+//var p3 = Solution_PalindromeNumber()
+//print(p3.isPalindrome(1234))
+
+// 문제 4 . RomanToInteger
+var p4 = Solution_RomanToInteger()
+p4.romanToInt("VIMM")
 
